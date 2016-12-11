@@ -1,0 +1,3 @@
+pwd
+ps 
+clear
