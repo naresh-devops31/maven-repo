@@ -1,3 +1,6 @@
+
+ps
+
 pwd
 ps 
 clear
